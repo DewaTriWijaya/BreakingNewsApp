@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">BreakingNews</string>
+
+    <string name="title_activity_drawer">DrawerActivity</string>
+
+    <string name="nav_header_title">BreakingNews</string>
+    <string name="nav_header_subtitle">breakingnews@gmail.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_bookmark">Bookmark</string>
+    <string name="menu_profile">Profile</string>
+
+    <string name="title">iOS 16.0.2 Dirilis, Atasi Masalah Kamera Belakang iPhone 14 Pro dan Pro Max yang Bergetar - Tribunnews.com</string>
+    <string name="publish">2022–09–23T06:16:00Z</string>
+    <string name="desc">Masalah Kamera Bergetar di iPhone 14 Pro dan Pro Max saat digunakan di Snapchat, TikTok, dan Instagram diatasi lewat update iOS 16.0.2.</string>
+    <string name="author">Arif Fajar Nasucha</string>
+    <string name="open_website">Open Website</string>
+    <string name="date_format">2 Sep 2022 | 16:00</string>
+
+    <string name="image_news">ImageNews</string>
+
+    <string name="biodata">Biodata</string>
+    <string name="name">Name</string>
+    <string name="_name">Dewa Tri Wijaya</string>
+    <string name="github">Github</string>
+    <string name="_github">https://github.com/DewaTriWijaya</string>
+    <string name="linked">Linked</string>
+    <string name="_linked">https://www.linkedin.com/in/dewa-tri-wijaya-539761201/</string>
+    <string name="email">Email</string>
+    <string name="_email">dewatwc@gmail.com</string>
+
+</resources>
